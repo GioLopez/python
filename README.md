@@ -8,5 +8,5 @@ This was done following the tutorial:
 
 ## License
 
-[![License](https://github.com/django/django/blob/master/LICENSE)]
+<a href="https://github.com/django/django/blob/master/LICENSE" target="_blank">Django License</a>
 

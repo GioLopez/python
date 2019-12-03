@@ -4,10 +4,9 @@
 
 This was done following the tutorial:
 
-[Django](#https://docs.djangoproject.com/en/3.0/intro/tutorial01/)
+<a href="https://docs.djangoproject.com/en/3.0/intro/tutorial01/" target="_blank">Django Tutorial</a>
 
 ## License
 
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+[![License](https://github.com/django/django/blob/master/LICENSE)]
 
-- **[MIT license](http://opensource.org/licenses/mit-license.php)**

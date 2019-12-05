@@ -1,0 +1,10 @@
+
+{% if choice_given_pk %}
+    <ul>
+    {% for choice in choice_given_pk %}
+	<li>{{ choice.id }} {{ choice.choice_text }}</li>
+    {% endfor %}
+    </ul>
+{% else %}
+    <p>No choice for given key available.</p>
+{% endif %}

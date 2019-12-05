@@ -1,8 +1,8 @@
 
-{% if choice_given_pk %}
+{% if choice_votes %}
     <ul>
-    {% for choice in choice_given_pk %}
-	<li>{{ choice.id }} {{ choice.choice_text }}</li>
+    {% for choice in choice_votes %}
+	<li>{{ choice.choice_text }} {{ choice.votes }}</li>
     {% endfor %}
     </ul>
 {% else %}
